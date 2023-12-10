@@ -2,19 +2,19 @@
 
 Welcome!
 
-Contained in this repository are the notebooks/scripts for some of the X (formerly Twitter) threads for my profile (see [here](https://twitter.com/DrDanobi)).
+Contained in this repository are the notebooks/scripts for some of the X (formerly Twitter) threads from my profile (see [here](https://twitter.com/DrDanobi)).
 
-**Please note that these codes are for education and entertainment only** - the code included on the threads have the sole purpose of demonstrating thoughts and ideas for how you can use Python and Machine Learning in your work. How I personally use such ideas may be different. The full disclaimer can be found below!
+**Please note that these codes are for education and entertainment only** - the code included on the threads have the sole purpose of demonstrating thoughts and ideas of how you can use Python and Machine Learning in your work. How I personally use such ideas may be different. The full disclaimer can be found below!
 
-My intention of this repo is to have an easy place for people to get the code I post. 
+My intention for this repo is to have an easy place for people to get the code I post. 
 
-Since I have a lot on my plate (9-5, trading, gym, posting, developing new ideas/strategies...), and given this is all demo code, I doubt I will a lot of time/energy to maintain this code.
+Since I have a lot on my plate (9-5, trading, gym, posting, developing new ideas/strategies...), and given this is all demo code, I doubt I will a lot of time/energy to maintain this code properly.
 
 Remember, copy-paste is everyone's best friend, until it's their worst enemy, so don't take everything here as gold standard 🙂
 
 ## How I Will Update this Repo
 
-This repository will be a work-in-progress sort of deal whilst I work out the kinks over time. I may change the file structure around a little, if I feel something is more suitable. **Therefore, I'd suggest bookmarking the repository, rather than a particular link to a notebook/script**
+This repository will be a work-in-progress sort of deal whilst I figure out the kinks over time. I may change the file structure around a little, if I feel something is more suitable. **Therefore, I'd suggest bookmarking the repository, rather than a particular link to a notebook/script**
 
 If I post any new code on X, then I will update this repo accordingly with the new file.
 
@@ -33,4 +33,3 @@ The content written by the author are based on their own opinions, formed throug
 Accordingly, the author makes no representation or warranty, either express or implied, in relation to the accuracy or reliability or completeness of the information or content or code published by the author. The author shall not have any liability whatsoever in respect of any direct, indirect or consequential loss or damage arising from your use of the content. 
 
 All content produced by author is intended as generic information about the financial markets and no content should be construed as an endorsement or recommendation about a particular investment.
-
